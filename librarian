@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>LIBRARIAN SITE</title>
+<style>
+#a1{
+	border:1px solid black;
+	width:100px;
+	height:20px;
+	
+}
+</style>
+</head>
+<body>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+
+<a href="issue.php" id="a1">Issue Book</a>
+<a href="reissue.php" id="a1">Re-Issue Book</a>
+<a href="add.php" id="a1">Add Book</a>
+<a href="delete.php" id="a1">Delete Book</a>
+<a href="update.php" id="a1">Update Book</a>
+
+<center>
+
+
+</body>
+</html>
